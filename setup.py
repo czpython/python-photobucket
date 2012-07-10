@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="python-photobucket",
-    version="0.1",
+    version="0.2",
     description="A python wrapper for the Photobucket API",
     author="Paulo Alvarado",
     author_email="commonzenpython@gmail.com",
